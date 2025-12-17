@@ -1,6 +1,6 @@
 ### Bash Script to **Merge** Folders into `~/.config`
 
-Safe script to **copy or move folders** from your current directory into `~/.config`, **merging contents** instead of deleting existing files/folders. Existing files in `~/.config` will **only be overwritten** if they have the **same name** as files/folders being copied — **no entire directories are removed**.  
+Script to **copy or move folders** from your current directory into `~/.config`, **merging contents** instead of deleting existing files/folders. Existing files in `~/.config` will **only be overwritten** if they have the **same name** as files/folders being copied — **no entire directories are removed**.  
 
 ---
 
