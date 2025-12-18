@@ -9,7 +9,7 @@ working_directory = "None"
 title = "Alacritty@Fedora"
 decorations = "full"
 blur = true
-opacity = 0.9
+opacity = 0.95
 padding.x = 10
 padding.y = 10
 
