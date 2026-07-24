@@ -6,16 +6,16 @@ live_config_reload = true
 working_directory = "None"
 
 [window]
-title = "Alacritty@Fedora"
+title = "Alacritty @ Fedora"
 decorations = "full"
 blur = true
 opacity = 0.95
-padding.x = 10
-padding.y = 10
+padding.x = 5
+padding.y = 5
 
 [window.dimensions]
-columns = 130
-lines = 35
+columns = 140
+lines = 40
 
 [window.class]
 instance = "Alacritty"
@@ -29,7 +29,7 @@ multiplier = 3
 draw_bold_text_with_bright_colors = true
 
 [font]
-size = 14.0
+size = 12.0
 normal.family = "MesloLGS Nerd Font Mono"
 normal.style = "Regular"
 
